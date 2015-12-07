@@ -15,7 +15,7 @@
 
     <EditText
         android:id="@+id/phoneNumber"
-        android:hint="numer telefonu"
+        android:hint="numer telefoniczny"
         android:inputType="phone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
